@@ -2,6 +2,7 @@
 Here is the initil screenshot:
 
 ![Hello Image](hello.png)
+
 Registration form : 
 
 ![Registration Image](regis1.png)
